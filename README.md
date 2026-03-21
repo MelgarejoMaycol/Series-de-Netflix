@@ -86,7 +86,7 @@ Estos fueron tus primeros pasos con **HTML y CSS puro**, sin utilizar JavaScript
 
 ## 👤 Autor
 
-maycol Melgarejo - mfmelgarejo04@gmail.com.
+Maycol Melgarejo - mfmelgarejo04@gmail.com.
 
 ---
 
