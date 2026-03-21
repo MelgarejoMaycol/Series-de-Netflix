@@ -84,17 +84,9 @@ Estos fueron tus primeros pasos con **HTML y CSS puro**, sin utilizar JavaScript
 - Integración de bibliotecas CSS externas
 - Estructura modular con páginas separadas por serie
 
-## 📝 Próximas Mejoras Potenciales
-
-- Agregar interactividad con JavaScript
-- Implementar búsqueda y filtros
-- Hacer el diseño completamente responsive para dispositivos móviles
-- Agregar base de datos o API para datos dinámicos
-- Mejorar accesibilidad (ARIA labels, contraste)
-
 ## 👤 Autor
 
-Tu proyecto personal de aprendizaje en desarrollo web.
+maycol Melgarejo - mfmelgarejo04@gmail.com.
 
 ---
 
