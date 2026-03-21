@@ -10,6 +10,11 @@ Un sitio web que presenta un catálogo interactivo de las mejores series de Netf
 - **Diseño responsivo**: Interfaz moderna con gradientes y animaciones
 - **Accesibilidad**: Uso de semántica HTML correcta
 
+## 🌐 Demo en Vivo
+
+Accede a la página desplegada en GitHub Pages:
+**[https://melgarejomaycol.github.io/Series-de-Netflix/](https://melgarejomaycol.github.io/Series-de-Netflix/)**
+
 ## 🛠️ Tecnologías Utilizadas
 
 - **HTML5**: Estructura semántica del sitio
